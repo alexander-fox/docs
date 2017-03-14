@@ -61,5 +61,14 @@
     "rustLinker": "arm-linux-gnueabihf-gcc",
     "cppTriple": "arm-unknown-linux-gnueabi",
     "icon": "/img/device/beaglebone-black.svg"
+  },
+  {
+    "id": "kitra710",
+    "name": "Kitra 710",
+    "bootMedia": "SD card",
+    "rustTriple": "aarch64-unknown-linux-gnu",
+    "rustLinker": "arm-linux-gnueabihf-gcc",
+    "cppTriple": "arm-unknown-linux-gnueabi",
+    "icon": "/img/device/kitra710.svg"
   }
 ]
